@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Analyze, whether the content of a given social media webpage could
 potentially polarize a user or not
